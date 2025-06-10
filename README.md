@@ -4,7 +4,7 @@ I've tried to run K-nearest neighbors (KNN), Decision Tree (DT) and Artificial N
 
 This repository contains data and Jupyter Notebooks used to prepare and use the weather data for machine learning methods.  
 Additionally, I include all the documents from the exercise plus the final presentation.
-Some more details about the data origin can be found in that presentation.
+Some more details about the data origin, as well as the results and summary, can be found in that presentation.
 
 # Jupyter notebooks
 
