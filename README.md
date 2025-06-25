@@ -10,7 +10,7 @@ Presentation - Part2 showcases three thought experiments in which ML methods are
 
 # Jupyter notebooks
 
-PART1
+PART1  
 This script is [preparing the data for machine learning](Scripts/Exercise_1.2_JKG.ipynb)  
 
 Here a [gradient descdent function](Scripts/Exercise_1.3_JKG.ipynb) was applied to the data  
@@ -20,5 +20,13 @@ Then [KNN algorithm](Scripts/Exercise_1.4_JKG.ipynb) was performed
 Followed by [DT](Scripts/Exercise_1.5_DT_JKG.ipynb) and [ANN](Scripts/Exercise_1.5_ANN_JKG.ipynb) methods  
 
 PART2  
-Two scripts for hierarchical clustering - one for [full data](Scripts/Exercise_2.1_Hierarchical_clustering_JKG.ipynb) and one with [reduced data](Scripts/Exercise_2.1_Hierarchical_clustering_reduced_JKG.ipynb)
+Two scripts for hierarchical clustering - one for [full data](Scripts/Exercise_2.1_Hierarchical_clustering_JKG.ipynb) and one with [reduced data](Scripts/Exercise_2.1_Hierarchical_clustering_reduced_JKG.ipynb)  
+
+Another script showcases the use of [RNNs](Scripts/Exercise_2.2_RNN_JKG.ipynb) in weather forecasting  
+
+This work was dealing with [Random Forest classification](Scripts/Exercise_2.3_Random_forest_JKG.ipynb)  
+
+Then, I was researching the [hyperparameters tuning](Scripts/Exercise_2.4_Hyperparameters_JKG.ipynb) for the machine learning models  
+
+The last challenge was dedicated to the visual data, one of the scripts is training CNN model on the [handwriting samples](Scripts/Exercise_2.5_MNIST_CNN_JKG.ipynb), and another one used [weather pictures](Scripts/Exercise_2.5_Visual_Weather_Systems_CNN_JKG.ipynb) to train a GAN model.
 
