@@ -28,5 +28,5 @@ This work was dealing with [Random Forest classification](Scripts/Exercise_2.3_R
 
 Then, I was researching the [hyperparameters tuning](Scripts/Exercise_2.4_Hyperparameters_JKG.ipynb) for the machine learning models  
 
-The last challenge was dedicated to the visual data, one of the scripts is training CNN model on the [handwriting samples](Scripts/Exercise_2.5_MNIST_CNN_JKG.ipynb), and another one used [weather pictures](Scripts/Exercise_2.5_Visual_Weather_Systems_CNN_JKG.ipynb) to train a GAN model.
+The last challenge was dedicated to the visual data, one of the scripts is training CNN model on the [handwriting samples](Scripts/Exercise_2.5_MNIST_CNN_JKG.ipynb), and another one used [weather pictures](Scripts/Exercise_2.5_Visual Weather Systems CNN_JKG.ipynb) to train a GAN model.
 
