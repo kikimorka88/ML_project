@@ -8,11 +8,11 @@ Some more details about the data origin, as well as the results and summary, can
 
 # Jupyter notebooks
 
-This script is [preparing the data for machine learning](Exercise_1.2_JKG)  
+This script is [preparing the data for machine learning](Scripts/Exercise_1.2_JKG)  
 
-Here a [gradient descdent function](Exercise_1.3_JKG) was applied to the data  
+Here a [gradient descdent function](Scripts/Exercise_1.3_JKG) was applied to the data  
 
-Then [KNN algorithm](Exercise_1.4_JKG) was performed  
+Then [KNN algorithm](Scripts/Exercise_1.4_JKG) was performed  
 
-Followed by [DT](Exercise_1.5_DT_JKG) and [ANN](Exercise_1.5_ANN_JKG) methods  
+Followed by [DT](Exercise_1.5_DT_JKG) and [ANN](Scripts/Exercise_1.5_ANN_JKG) methods  
 
